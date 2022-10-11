@@ -3,6 +3,7 @@ public class Program {
         System.out.println("Yeni proje'den herkese merhaba!");
         System.out.println("-------------------------------");
         System.out.println("İkinci tekrar");
+        System.out.println("üçüncü tekrar");
 
     }
 }
